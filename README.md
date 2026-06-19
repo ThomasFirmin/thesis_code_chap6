@@ -1,6 +1,6 @@
 # Parallel hyperparameter optimization of spiking neural networks
 
-> [Back to main](https://gitlab.cristal.univ-lille.fr/tfirmin/mythesis)
+> [Back to main](https://github.com/ThomasFirmin/mythesis)
 
 This repository contains hyperlinks to redirect the reader to the source code of each chapter from the thesis [Parallel hyperparameter optimization of spiking neural networks](https://theses.fr/s327519).
 
